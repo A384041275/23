@@ -32,6 +32,10 @@ DOMAIN-SUFFIX,tiktokmusic.app
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,ttwebview.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,ip111.cn
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,ip111
+DOMAIN-KEYWORD,whoer
 PROCESS-NAME,com.zhiliaoapp.musically
